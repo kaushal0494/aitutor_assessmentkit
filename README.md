@@ -29,7 +29,7 @@ The library comprises three modular components:
 2. **`llmeval`**: For LLM-based evaluation.
 3. **`visualizer`**: For visualization and interpretation of evaluation scores.
 
-![](/home/kaushal.maurya/AITutor_AssessmentKit/outputs/AITutor-assessmentKit-Main_vf3.png)
+![](https://github.com/kaushal0494/aitutor_assessmentkit/blob/main/asset/image/main.png)
 
 ---
 
