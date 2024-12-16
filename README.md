@@ -4,10 +4,13 @@
 
 The `AITutor-AssessmentKit` is the *first* open-source library to enable the pedagogical abilities assessment of large language model (LLM)-powered AI tutors in educational dialogues. This unified framework:
 
-- **Evaluates AI tutor responses** across eight comprehensive dimensions in the context of student error remediation tasks in mathematics.
+- **Evaluates AI tutor responses** across eight comprehensive dimensions in the context of student error remediation tasks in mathematics
 - **Offers a pluggable and customizable interface** for integrating models and LLM releases from the community.
 
 By providing an efficient, scalable alternative to costly and subjective human evaluations, `AITutor-AssessmentKit` facilitates *on-the-fly* assessment of AI tutors.
+
+## **Reference**
+The toolkit is developed based on the evaluation taxonomy proposed by [Maurya et al. (2024)](https://arxiv.org/abs/2412.09416).
 
 ---
 
@@ -37,11 +40,13 @@ The library comprises three modular components:
 
 We provide several resources to help you get started:
 
-1. [Tutorial Notebook-I: Automated Evaluation with AITutor-AssessmentKit](#)
-2. [Tutorial Notebook-II: LLM-Based Evaluation with AITutor-AssessmentKit](#)
-3. [Tutorial Notebook-III: Visualizing AI Tutor Performance with AITutor-AssessmentKit](#)
+Here is the corrected version:
 
-For a quick overview, check out our [Demo Notebook](#).
+1. [Tutorial Notebook I: Automated Evaluation with `AITutor-AssessmentKit`](https://github.com/kaushal0494/aitutor_assessmentkit/blob/main/tutorials/Tutorial_Notebook_AutoEval.ipynb)
+2. [Tutorial Notebook II: LLM-Based Evaluation with `AITutor-AssessmentKit`](https://github.com/kaushal0494/aitutor_assessmentkit/blob/main/tutorials/Tutorial_Notebook_LLMEval.ipynb)
+3. [Tutorial Notebook III: Visualizing and Interpreting Evaluation Scores with `AITutor-AssessmentKit`](https://github.com/kaushal0494/aitutor_assessmentkit/blob/main/tutorials/Tutorial_Notebook_Visulizer.ipynb)
+
+For a quick overview, check out our [Demo Notebook](https://github.com/kaushal0494/aitutor_assessmentkit/blob/main/tutorials/Demo_Notebook.ipynb).
 
 ---
 
